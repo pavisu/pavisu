@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/>
-<img src="https://plugins.jetbrains.com/files/13107/96605/icon/pluginIcon.png" alt="gdscript" width="45" height="45"/> 
-<img src="https://pic1.zhimg.com/v2-11f836b9358923e624d0847708eaf612_l.jpg?source%253D172ae18b" alt="allennlp" width="45" height="45"/>
+<img src="https://plugins.jetbrains.com/files/13107/96605/icon/pluginIcon.svg" alt="gdscript" width="45" height="45"/> 
+<img src="https://pic1.zhimg.com/v2-11f836b9358923e624d0847708eaf612_l.jpg?source%253D172ae18b.svg" alt="allennlp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
                                
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
