@@ -1,4 +1,4 @@
-### Hi there here is Pavi👋
+# Hi there here is Pavi 🐈 
 
 <!--
 **pavisu/pavisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,41 @@ Here are some ideas to get you started:
 -->
 
 ![Snake animation](https://raw.githubusercontent.com/pavisu/pavisu/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
+<h2> 👩🏻‍💻💖 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Pavithra Sureshkumar
+located_in: Germany
+current_job: Student at Esslingen University
+education:
+  [
+    "Doing my Software engineering and media computing (B.ENG.)"
+  ]
+
+fields_of_interests:
+  [
+    "Full Stack",
+    "Data Science",
+    "Machine Learning",
+    "Game Development",
+  ]
+technical_background:
+  [
+    "Intern - Machine Learning (NLP)",
+  ]
+  
+currently_learning: ["Godot"]
+2023/24 Goals: ["Studyproject Farming Simulation with Godot"]
+hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
+```
+  
+---  
+
+
 
 ---  
   
