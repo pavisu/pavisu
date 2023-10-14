@@ -50,9 +50,6 @@ currently_learning: ["Godot"]
 hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
 ```
   
----  
-
-
 
 ---  
   
