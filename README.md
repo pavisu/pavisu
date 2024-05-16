@@ -46,7 +46,7 @@ technical_background:
   ]
   
 currently_learning: ["Godot"]
-2023/24 Goals: ["Studyproject Farming Simulation with Godot"]
+2024 Goals: ["Bachelor Thesis: Multi-Task Learning Model"]
 hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
 ```
   
