@@ -38,6 +38,7 @@ fields_of_interests:
     "Full Stack",
     "Data Science",
     "Machine Learning",
+    "AI Engineering",
     "Game Development",
   ]
 technical_background:
@@ -45,7 +46,7 @@ technical_background:
     "Intern - Machine Learning (NLP)",
   ]
   
-currently_learning: ["Godot"]
+currently_learning: ["NER, MLTC, MTL"]
 2024 Goals: ["Bachelor Thesis: Multi-Task Learning Model"]
 hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
 ```
