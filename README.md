@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ```yaml
 name: Pavithra Sureshkumar
 located_in: Germany
-current_job: Student at Esslingen University
+current_job: Searching
 education:
   [
-    "Doing my Software engineering and media computing (B.ENG.)"
+    "Software engineering and media computing (B.ENG.)"
   ]
 
 fields_of_interests:
@@ -46,8 +46,8 @@ technical_background:
     "Intern - Machine Learning (NLP)",
   ]
   
-currently_learning: ["NER, MLTC, MTL"]
-2024 Goals: ["Bachelor Thesis: Multi-Task Learning Model"]
+currently_learning: ["Java"]
+2024 Goals: ["Job-hunting and create more Fullstack Projects"]
 hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
 ```
   
