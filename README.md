@@ -46,7 +46,7 @@ technical_background:
     "Intern - Machine Learning (NLP)",
   ]
   
-currently_learning: ["Java"]
+currently_learning: ["Java, Fullstack, Codecademy"]
 2024 Goals: ["Job-hunting and create more Fullstack Projects"]
 hobbies: ["Gaming", "Digitalart", "Hometraining", "Reading Webtoons", "Watching Anime and Kdramas"]
 ```
